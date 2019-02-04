@@ -1,0 +1,17 @@
+{
+  "header": {
+    "nav": {
+      "nav_1":"Inicio",
+      "nav_2":"Nosotros",
+      "nav_3":"Ingles",
+      "nav_4":"Espanol"
+    }
+  },
+  "section": {
+    "title":"Algun titulo",
+    "long_text":"Este es un texto largo en espanol"
+  },
+  "footer": {
+    "policy":"Esta es una politica de privacidad en espanol"
+  }
+}
