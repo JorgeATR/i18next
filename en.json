@@ -1,0 +1,17 @@
+{
+  "header": {
+    "nav": {
+      "nav_1":"Home",
+      "nav_2":"About",
+      "nav_3":"English",
+      "nav_4":"Spanish"
+    }
+  },
+  "section": {
+    "title":"Some Title",
+    "long_text":"This is some long text in english"
+  },
+  "footer": {
+    "policy":"This is some footer privacy policy"
+  }
+}
